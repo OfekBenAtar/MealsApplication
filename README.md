@@ -10,4 +10,4 @@ The Favorite page workes with Redux but you can find Context Api implementation 
 
 
 
-![WhatsApp_Video_2022-08-13_at_00_10_50_AdobeExpress](https://user-images.githubusercontent.com/88097271/184447079-1415302c-2041-47ef-8187-473bd8a997d4.gif)
+https://user-images.githubusercontent.com/88097271/184447079-1415302c-2041-47ef-8187-473bd8a997d4.gif
