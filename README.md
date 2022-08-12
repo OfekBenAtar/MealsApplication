@@ -6,8 +6,4 @@ This is a mobile application named Meals Application, you can find here recipes 
 The Favorite page workes with Redux but you can find Context Api implementation inside the project as comments.
 
 
-
-
-
-
-https://user-images.githubusercontent.com/88097271/184447079-1415302c-2041-47ef-8187-473bd8a997d4.gif
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88097271/184447797-d3a504c2-1e6d-4dc1-b135-e07b38ee2fac.gif)
